@@ -1,0 +1,32 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: 'Lexend', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 150%;
+}
+
+.hero {
+    padding: 50px;
+    border: 1px solid #262626;
+    border-radius: 14px;
+}
+
+.hero-headline {
+    font-size: 20px;
+    max-width: 683px;
+}
+
+.hero-line {
+    background-color: #262626;
+    width: 682px;
+    height: 1px;
+    margin: 30px 0;
+}
+
+.hero-paragraph {
+    color: #B3B3B3;
+    max-width: 683px;
+}
+

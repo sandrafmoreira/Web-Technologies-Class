@@ -1,0 +1,32 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: 'Lexend', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.hero-headline {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 48px;
+    max-width: 830px;
+    margin-bottom: 10px;
+    line-height: 150%;
+}
+
+.hero-paragraph {
+    max-width: 830px;
+    color: #E4E4E7;
+    margin-bottom: 40px;
+    line-height: 150%;
+}
+
+
+.hero-btn {
+    color: #1C1C1C;
+    background-color: #CAFF33;
+    padding: 16px 24px;
+    border-radius: 82px;
+    border: 0;
+}

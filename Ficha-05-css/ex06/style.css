@@ -1,0 +1,26 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: 'Lexend', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 150%;
+    text-align: center;
+}
+
+.hero {
+    padding: 20px;
+}
+
+.hero-headline {
+    font-size: 24px;
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+
+.hero-paragraph { 
+    text-align: center;
+    color:  #B3B3B3;
+    max-width: 380px;
+    margin: auto;
+}

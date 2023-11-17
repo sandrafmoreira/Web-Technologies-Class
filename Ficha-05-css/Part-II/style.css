@@ -1,0 +1,19 @@
+body {
+    background-color: #e2dcff;
+    font-family: 'Ralway', sans-serif;
+    text-align: center;
+    margin: 50px auto;
+}
+
+section {
+    color: #3d3269;
+    
+}
+
+.image {
+    border-radius: 40px;
+}
+
+h1 {
+    line-height: 150%;
+}
